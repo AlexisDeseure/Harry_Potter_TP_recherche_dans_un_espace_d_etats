@@ -46,5 +46,6 @@ avec :
  * nombredetraqueurs : Entier >= 0 correspondant au nombre de détraqueurs qui apparaisent initialement sur la carte.
 
 ## Auteurs
-Alexis Deseure
+Alexis Deseure  
+
 Colin Manyri
