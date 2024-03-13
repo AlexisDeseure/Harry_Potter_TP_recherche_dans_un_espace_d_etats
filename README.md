@@ -2,7 +2,7 @@
 Ce fichier a pour objectif de mieux comprendre comment lancer les fonctions du TP. A noter qu'aucun accent n'est présent sur le fichier source Lisp pour éviter les problèmes de conversions en fonction des IDE.
 
 ## Le fichier
-Au sein de l'archive "TP2_Deseure_Manyri_Groupe2.zip" l'ensemble des fonctions utiles se situent dans le fichier "TP2.lisp". Le rapport PDF porte le nom "TP2_Deseure_Manyri_Rapport.pdf"
+Au sein du dépôt Github, l'ensemble des fonctions utiles se situent dans le fichier "TP2.lisp". Le rapport PDF porte le nom "TP2_Deseure_Manyri_Rapport.pdf"
 ## Les fonctions
 Toutes les fonctions du fichier source disposent de jeux de test mis en paramètre afin de pouvoir tout charger en mémoire (CTRL+a et CTRL+e) au début et ainsi ne plus s'y préoccuper ensuite. Quand au trois fonctions principales permettant de résoudre  les exercices : "Recherche en profondeur pour la recherche de Harry Potter", "Lord Voldemort part à la recherche des Horcruxes" et "Créativité", vous trouverez le détail ci-dessous. A noter que chacune d'elles disposent de paramètres optionnels que l'utilisateur ne doit pas rentrer pour obtenir le résultat attendu. De plus, si l'utilisateur entre des paramètres ne respectant pas les critères décrient ci-dessous, les programmes pourraient renvoyer des erreurs inattendues.
 ### exploreprofondeur :
@@ -44,3 +44,7 @@ avec :
  * posHarry : Entier correspondant à la valeur initiale d'Harry Potter dans le labyrinthe. Cette entier doit être une case valide sinon le résultat ne sera pas celui attendu.
  * posVdm : Entier correspondant à la valeur initiale de Voldemort dans le labyrinthe. Cette entier doit être une case valide sinon le résultat ne sera pas celui attendu.
  * nombredetraqueurs : Entier >= 0 correspondant au nombre de détraqueurs qui apparaisent initialement sur la carte.
+
+## Auteurs
+Alexis Deseure
+Colin Manyri
