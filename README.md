@@ -45,6 +45,7 @@ avec :
  * posVdm : Entier correspondant à la valeur initiale de Voldemort dans le labyrinthe. Cette entier doit être une case valide sinon le résultat ne sera pas celui attendu.
  * nombredetraqueurs : Entier >= 0 correspondant au nombre de détraqueurs qui apparaisent initialement sur la carte.
 
+Resultat : 19,75/20
 ## Auteurs
 Alexis Deseure  
 
